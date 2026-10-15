@@ -1,0 +1,15 @@
+C:\Users\oband\Documents\Programacion ll\CasoAnalisisPrograma\CasoAnalisisPrograma\bin\Debug\net10.0\CasoAnalisisPrograma.exe
+C:\Users\oband\Documents\Programacion ll\CasoAnalisisPrograma\CasoAnalisisPrograma\bin\Debug\net10.0\CasoAnalisisPrograma.deps.json
+C:\Users\oband\Documents\Programacion ll\CasoAnalisisPrograma\CasoAnalisisPrograma\bin\Debug\net10.0\CasoAnalisisPrograma.runtimeconfig.json
+C:\Users\oband\Documents\Programacion ll\CasoAnalisisPrograma\CasoAnalisisPrograma\bin\Debug\net10.0\CasoAnalisisPrograma.dll
+C:\Users\oband\Documents\Programacion ll\CasoAnalisisPrograma\CasoAnalisisPrograma\bin\Debug\net10.0\CasoAnalisisPrograma.pdb
+C:\Users\oband\Documents\Programacion ll\CasoAnalisisPrograma\CasoAnalisisPrograma\obj\Debug\net10.0\CasoAnalisisPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oband\Documents\Programacion ll\CasoAnalisisPrograma\CasoAnalisisPrograma\obj\Debug\net10.0\CasoAnalisisPrograma.AssemblyInfoInputs.cache
+C:\Users\oband\Documents\Programacion ll\CasoAnalisisPrograma\CasoAnalisisPrograma\obj\Debug\net10.0\CasoAnalisisPrograma.AssemblyInfo.cs
+C:\Users\oband\Documents\Programacion ll\CasoAnalisisPrograma\CasoAnalisisPrograma\obj\Debug\net10.0\CasoAnalisisPrograma.csproj.CoreCompileInputs.cache
+C:\Users\oband\Documents\Programacion ll\CasoAnalisisPrograma\CasoAnalisisPrograma\obj\Debug\net10.0\CasoAnalisisPrograma.dll
+C:\Users\oband\Documents\Programacion ll\CasoAnalisisPrograma\CasoAnalisisPrograma\obj\Debug\net10.0\refint\CasoAnalisisPrograma.dll
+C:\Users\oband\Documents\Programacion ll\CasoAnalisisPrograma\CasoAnalisisPrograma\obj\Debug\net10.0\CasoAnalisisPrograma.pdb
+C:\Users\oband\Documents\Programacion ll\CasoAnalisisPrograma\CasoAnalisisPrograma\obj\Debug\net10.0\CasoAnalisisPrograma.genruntimeconfig.cache
+C:\Users\oband\Documents\Programacion ll\CasoAnalisisPrograma\CasoAnalisisPrograma\obj\Debug\net10.0\ref\CasoAnalisisPrograma.dll
+C:\Users\oband\Documents\Programacion ll\CasoAnalisisPrograma\CasoAnalisisPrograma\obj\Debug\net10.0\CasoAnal.5D39E6CF.Up2Date
